@@ -8,10 +8,10 @@
 		<version>2.1.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.toy.simulatedRobot</groupId>
-	<artifactId>toy-simulatedRobot-task</artifactId>
+	<groupId>com.toy.robot</groupId>
+	<artifactId>toy-robot-task</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>toy-simulatedRobot-task</name>
+	<name>Toy-Robot-Task</name>
 	<description>Spring Boot Project for Toy Robot</description>
 
 	<properties>
